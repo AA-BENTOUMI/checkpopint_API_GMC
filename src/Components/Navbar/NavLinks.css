@@ -1,0 +1,21 @@
+.bg-dark {
+  padding: 10px 50px !important;
+  justify-content: space-between;
+}
+
+ul {
+  list-style: none;
+}
+
+.appLink {
+  text-decoration: none !important;
+  color: white !important;
+  margin: 10px;
+}
+
+.navbar-brand {
+  color: rgb(199, 110, 8) !important;
+}
+.nav-link {
+  color: white !important;
+}
